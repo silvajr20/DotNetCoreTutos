@@ -1,0 +1,15 @@
+C:\Users\IAB\Documents\dev\Identity.Overview.Mvc\Id.Overview.Mvc\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\IAB\Documents\dev\Identity.Overview.Mvc\Id.Overview.Mvc\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\IAB\Documents\dev\Identity.Overview.Mvc\Id.Overview.Mvc\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\IAB\Documents\dev\Identity.Overview.Mvc\Id.Overview.Mvc\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\IAB\Documents\dev\Identity.Overview.Mvc\Id.Overview.Mvc\obj\Debug\netcoreapp2.0\Id.Overview.Mvc.AssemblyInfoInputs.cache
+C:\Users\IAB\Documents\dev\Identity.Overview.Mvc\Id.Overview.Mvc\obj\Debug\netcoreapp2.0\Id.Overview.Mvc.AssemblyInfo.cs
+C:\Users\IAB\Documents\dev\Identity.Overview.Mvc\Id.Overview.Mvc\bin\Debug\netcoreapp2.0\Id.Overview.Mvc.deps.json
+C:\Users\IAB\Documents\dev\Identity.Overview.Mvc\Id.Overview.Mvc\bin\Debug\netcoreapp2.0\Id.Overview.Mvc.runtimeconfig.json
+C:\Users\IAB\Documents\dev\Identity.Overview.Mvc\Id.Overview.Mvc\bin\Debug\netcoreapp2.0\Id.Overview.Mvc.runtimeconfig.dev.json
+C:\Users\IAB\Documents\dev\Identity.Overview.Mvc\Id.Overview.Mvc\bin\Debug\netcoreapp2.0\Id.Overview.Mvc.dll
+C:\Users\IAB\Documents\dev\Identity.Overview.Mvc\Id.Overview.Mvc\bin\Debug\netcoreapp2.0\Id.Overview.Mvc.pdb
+C:\Users\IAB\Documents\dev\Identity.Overview.Mvc\Id.Overview.Mvc\obj\Debug\netcoreapp2.0\Id.Overview.Mvc.csprojAssemblyReference.cache
+C:\Users\IAB\Documents\dev\Identity.Overview.Mvc\Id.Overview.Mvc\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\IAB\Documents\dev\Identity.Overview.Mvc\Id.Overview.Mvc\obj\Debug\netcoreapp2.0\Id.Overview.Mvc.dll
+C:\Users\IAB\Documents\dev\Identity.Overview.Mvc\Id.Overview.Mvc\obj\Debug\netcoreapp2.0\Id.Overview.Mvc.pdb

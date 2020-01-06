@@ -1,0 +1,46 @@
+Criar perfil do facebook
+
+acessar: https://developers.facebook.com/apps/
+
+----------------------------------------------
+secrets.json
+
+"Facebook": {
+      "AppId": "",
+      "AppSecret":  ""
+    },
+"Google": {
+      "ClientId": "590945499617-6q7sg5cb7hdv7pv4cqv0js1smdkjmdqc.apps.googleusercontent.com",
+      "ClientSecret": "6UeJ0p1tlygh1ijwjyPYTKyS"
+    },
+"Microsoft": {
+      "ApplicationId": "139d0f06-c53d-428d-847c-b870751c62f7",
+      "Password": "PTTi0sR?HdFVjaHOmFgRPJkF0Zs/3-7?"
+    }
+
+
+------------------
+Criar url de politica de privacidade: 
+
+Url de politica de privacidade: http://localhost:62764/url-privacidade
+
+
+credencial google api : AIzaSyAX8JOSg-gPc7PASV6CyHRKhYGBWts4qhU
+
+
+-------------------
+
+Criar login provider com conta microsoft (observar secrets.json)
+
+www.apps.dev.microsoft.com
+
+
+
+-------------------------------------------
+
+Criar login provider com a conta do linkedIn
+
+instalar o pacote no package manager =>  install-package aspnet.security.oauth.linkedin
+
+
+

@@ -1,0 +1,6 @@
+C:\Users\IAB\Documents\dev\IdentityWithDapper\IdentityWithDapper\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\IAB\Documents\dev\IdentityWithDapper\IdentityWithDapper\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\IAB\Documents\dev\IdentityWithDapper\IdentityWithDapper\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\IAB\Documents\dev\IdentityWithDapper\IdentityWithDapper\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\IAB\Documents\dev\IdentityWithDapper\IdentityWithDapper\obj\Debug\netcoreapp2.0\IdentityWithDapper.AssemblyInfoInputs.cache
+C:\Users\IAB\Documents\dev\IdentityWithDapper\IdentityWithDapper\obj\Debug\netcoreapp2.0\IdentityWithDapper.AssemblyInfo.cs

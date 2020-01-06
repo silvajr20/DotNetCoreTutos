@@ -1,0 +1,15 @@
+C:\Users\IAB\Documents\dev\IdentityChangeName\IdentityChangeName\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\IAB\Documents\dev\IdentityChangeName\IdentityChangeName\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\IAB\Documents\dev\IdentityChangeName\IdentityChangeName\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\IAB\Documents\dev\IdentityChangeName\IdentityChangeName\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\IAB\Documents\dev\IdentityChangeName\IdentityChangeName\obj\Debug\netcoreapp2.0\IdentityChangeName.AssemblyInfoInputs.cache
+C:\Users\IAB\Documents\dev\IdentityChangeName\IdentityChangeName\obj\Debug\netcoreapp2.0\IdentityChangeName.AssemblyInfo.cs
+C:\Users\IAB\Documents\dev\IdentityChangeName\IdentityChangeName\bin\Debug\netcoreapp2.0\IdentityChangeName.deps.json
+C:\Users\IAB\Documents\dev\IdentityChangeName\IdentityChangeName\bin\Debug\netcoreapp2.0\IdentityChangeName.runtimeconfig.json
+C:\Users\IAB\Documents\dev\IdentityChangeName\IdentityChangeName\bin\Debug\netcoreapp2.0\IdentityChangeName.runtimeconfig.dev.json
+C:\Users\IAB\Documents\dev\IdentityChangeName\IdentityChangeName\bin\Debug\netcoreapp2.0\IdentityChangeName.dll
+C:\Users\IAB\Documents\dev\IdentityChangeName\IdentityChangeName\bin\Debug\netcoreapp2.0\IdentityChangeName.pdb
+C:\Users\IAB\Documents\dev\IdentityChangeName\IdentityChangeName\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\IAB\Documents\dev\IdentityChangeName\IdentityChangeName\obj\Debug\netcoreapp2.0\IdentityChangeName.dll
+C:\Users\IAB\Documents\dev\IdentityChangeName\IdentityChangeName\obj\Debug\netcoreapp2.0\IdentityChangeName.pdb
+C:\Users\IAB\Documents\dev\IdentityChangeName\IdentityChangeName\obj\Debug\netcoreapp2.0\IdentityChangeName.csprojAssemblyReference.cache

@@ -1,0 +1,21 @@
+install-package Microsoft.AspnetCore.Identity
+
+install-package Microsoft.AspnetCore.Identity.EntityFrameworkCore -Version 2.0.4
+
+
+- Para criar o migration inicial:
+
+
+add-migration initial
+
+
+- Ver tabelas originadas pelo migration inicial
+
+script-migration
+
+
+- Atualizando o banco de dados:
+
+update-database
+
+
